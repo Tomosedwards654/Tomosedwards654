@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Tomosedwards654
+- 👋 Hi, I’m Tom.
 - 👀 I’m interested in learning to code, especially on the Raspberry Pi platform
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on anything that'll help me learn!
